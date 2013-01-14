@@ -1,2 +1,2 @@
-android-maven-sample-project
+Simple Android Maven Project
 ============================
